@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi there!
+
+I love to eat outside.
+I'm looking forward to going to Tsunan, Niigata, Japan camping this summer.
